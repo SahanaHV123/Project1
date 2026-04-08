@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="images/homepage.png" alt="Guard AI Banner" width="800">
+  <img src="image/homepage.png" alt="Guard AI Banner" width="800">
 </p>
 
 ---
